@@ -1,0 +1,13 @@
+C:\Users\cult_\OneDrive\C# Files\24.06\Askisi bookstore\Askisi bookstore\bin\Debug\Askisi bookstore.exe
+C:\Users\cult_\OneDrive\C# Files\24.06\Askisi bookstore\Askisi bookstore\bin\Debug\Askisi bookstore.exe.config
+C:\Users\cult_\OneDrive\C# Files\24.06\Askisi bookstore\Askisi bookstore\obj\Debug\Askisi bookstore.csprojAssemblyReference.cache
+C:\Users\cult_\OneDrive\C# Files\24.06\Askisi bookstore\Askisi bookstore\obj\Debug\Askisi bookstore.csproj.CoreCompileInputs.cache
+C:\Users\cult_\OneDrive\C# Files\24.06\Askisi bookstore\Askisi bookstore\obj\Debug\Askisi bookstore.exe
+C:\Users\cult_\OneDrive\C# Files\24.06\Askisi bookstore\Askisi bookstore\obj\Debug\Askisi bookstore.pdb
+C:\Users\cult_\OneDrive\Desktop\Askisi Library\Askisi bookstore\bin\Debug\Askisi bookstore.exe.config
+C:\Users\cult_\OneDrive\Desktop\Askisi Library\Askisi bookstore\bin\Debug\Askisi bookstore.exe
+C:\Users\cult_\OneDrive\Desktop\Askisi Library\Askisi bookstore\bin\Debug\Askisi bookstore.pdb
+C:\Users\cult_\OneDrive\Desktop\Askisi Library\Askisi bookstore\obj\Debug\Askisi bookstore.csprojAssemblyReference.cache
+C:\Users\cult_\OneDrive\Desktop\Askisi Library\Askisi bookstore\obj\Debug\Askisi bookstore.csproj.CoreCompileInputs.cache
+C:\Users\cult_\OneDrive\Desktop\Askisi Library\Askisi bookstore\obj\Debug\Askisi bookstore.exe
+C:\Users\cult_\OneDrive\Desktop\Askisi Library\Askisi bookstore\obj\Debug\Askisi bookstore.pdb
